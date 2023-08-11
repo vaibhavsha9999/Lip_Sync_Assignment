@@ -28,7 +28,3 @@ Please note that this tool is provided as-is, and further improvements and adjus
 ## Credits
 
 This code is inspired by various sources and contributions from the open-source community. Special thanks to the authors of the Wav2Lip model and related resources.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
